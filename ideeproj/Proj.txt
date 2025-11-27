@@ -1,0 +1,5 @@
+Idea proiectului: gestionarea inventarului unui magazin de electronice:
+-Entitati:-produs(id,name,price,creator,stock(int),category(id))
+	  -categorie(id, name)
+
+-Functionalitati:Post,Get,Put,Delete;

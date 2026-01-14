@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MagazinOnline.iml" filepath="$PROJECT_DIR$/.idea/modules/MagazinOnline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MagazinOnline.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MagazinOnline.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MagazinOnline.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MagazinOnline.test.iml" />
+    </modules>
+  </component>
+</project>
